@@ -13,7 +13,7 @@ function Navbar() {
         return (
                 <Nav>
                         <h2 style={{ color : "#fafafa", cursor : 'pointer' }}>WeatherApp</h2>
-                        <a href="https://github.com/">
+                        <a href="https://github.com/codedbyyashwanth/react-weather-app">
                                 <GrGithub style={{ fontSize : "2rem", color : "#fafafa" }} />
                         </a>
                 </Nav>
